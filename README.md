@@ -1,8 +1,8 @@
 # Saranya_Sum_Program
-It takes an integer as an input and prints it square.
+It takes an integer as an input and prints it addition.
 
 ## Installation
-```pip install Saranya_Sum_Program```
+```pip install Saranya-Sum-Program```
 
 ## How to use it?
 Open terminal and type two numbers to get addition
